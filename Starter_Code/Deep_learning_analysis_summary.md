@@ -27,7 +27,7 @@ Date: 10/08/2021
 
 *Loss of the Closing-price models using different time-windows* 
 
-![image](Analysis_graphs/closing_prices_loss_comparison.PNG)
+![image](Analysis_graphs/Closing_prices_loss_comparison.PNG)
 
 <p></p><br>
 
@@ -63,7 +63,7 @@ Date: 10/08/2021
 
 *Loss of the Closing-price models using different time-windows* 
 
-![image](Analysis_graphs/closing_prices_loss_comparison.PNG)
+![image](Analysis_graphs/Closing_prices_loss_comparison.PNG)
 
 <p></p><br>
 *Loss of the FNG models using different time-windows* 
